@@ -2,7 +2,7 @@
 
 
 
-👋  Hi! This is [distbuild](https://github.com/distbuild/.github), an open-source, distributed build service built in Go.
+👋  Hi! This is [distbuild](https://github.com/distbuild), an open-source, distributed build service built in Go.
 
 
 

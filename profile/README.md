@@ -31,6 +31,6 @@ Do you want to see [distbuild](https://github.com/distbuild) in action? Check th
 
 Prefer the speed and fluidity of chat? Then join our [distbuild community](https://gitter.im/craftslab/distbuild).
 
-### GitHub issues 🔩
+### Issues 🔩
 
 Bugs should be reported as issues in the corresponding repository, e.g., [distbuild/controller](https://github.com/distbuild/controller/issues), [distbuild/scheduler](https://github.com/distbuild/scheduler/issues), and so forth.

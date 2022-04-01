@@ -18,6 +18,12 @@ Hey! We're glad you're thinking about contributing to [distbuild](https://github
 
 
 
+## 🧪 Testing
+
+Here is [the testing](https://github.com/distbuild/testing) performed for clients and servers using REAPIs.
+
+
+
 ## 🖥 Demos 
 
 Do you want to see [distbuild](https://github.com/distbuild) in action? Check the list of our demos [in the dedicated repository](https://github.com/distbuild/demo). 

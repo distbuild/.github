@@ -2,7 +2,7 @@
 
 
 
-👋  Hi! This is [distbuild](https://github.com/distbuild), an open-source, distributed build service built in Rust.
+👋 Hi! This is [distbuild](https://github.com/distbuild), an open-source, distributed build service built in Rust.
 
 
 

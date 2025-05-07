@@ -39,4 +39,4 @@ Prefer the speed and fluidity of chat? Then join our [distbuild community](https
 
 ### Issues 🔩
 
-Bugs should be reported as issues in the corresponding repository, e.g., [distbuild/controller](https://github.com/distbuild/bazel-buildfarm/issues), [distbuild/scheduler](https://github.com/distbuild/reclient/issues), and so forth.
+Bugs should be reported as issues in the corresponding repository.

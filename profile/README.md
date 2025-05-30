@@ -16,7 +16,7 @@
 - **bootstrap:** Command-line tool for deploying distbuild
 - **clone:** Quick cloning of a Git repository
 - **consul:** Consul running in a Docker container
-- **dumpStats:** Monitors services and provides data statistics
+- **dumpstats:** Monitors services and provides data statistics
 - **proxy:** gRPC client functioning as a proxy for Android builds
 - **worker:** gRPC server acting as a worker for Android build
 - **wrapper:** Wrapper specifically designed for Android build
@@ -26,9 +26,15 @@
 
 #### 🐛 Bug Fixes
 
+N/A
+
 #### 🔄 Changes
 
+N/A
+
 #### 📦 Dependencies
+
+N/A
 
 
 

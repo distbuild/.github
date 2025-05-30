@@ -6,6 +6,32 @@
 
 
 
+## 🚀 Latest Release
+
+### v1.0.0-alpha - 2025-05-30
+
+#### ✨ New Features
+
+- **agent:** Handles service registration and health checks using Consul
+- **bootstrap:** Command-line tool for deploying distbuild
+- **clone:** Quick cloning of a Git repository
+- **consul:** Consul running in a Docker container
+- **dumpStats:** Monitors services and provides data statistics
+- **proxy:** gRPC client functioning as a proxy for Android builds
+- **worker:** gRPC server acting as a worker for Android build
+- **wrapper:** Wrapper specifically designed for Android build
+- **tools:** Utilities used for distbuild
+- **ubuntu:** Ubuntu running in a Docker container
+- **utils:** Various utilities for distbuild
+
+#### 🐛 Bug Fixes
+
+#### 🔄 Changes
+
+#### 📦 Dependencies
+
+
+
 ## 📚 Documentation 
 
 Our [documentation website](https://distbuild.github.io) is hosted in a [public GitHub repository](https://github.com/distbuild/distbuild.github.io).

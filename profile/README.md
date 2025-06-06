@@ -14,7 +14,7 @@
 
 - **agent:** Handles service registration and health checks using Consul
 - **bootstrap:** Command-line tool for deploying distbuild
-- **clone:** Quick cloning of a Git repository
+- **clone:** Cloning of Git repository with Copy-on-Write
 - **consul:** Consul running in a Docker container
 - **dumpstats:** Monitors services and provides data statistics
 - **proxy:** gRPC client functioning as a proxy for Android builds
